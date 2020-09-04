@@ -3,13 +3,29 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Khawoat6)
 
 
-<div style="display: flex;">
+## Hi there 👋, I'm Fame
+My name is Oat Phattaraphon, I'm frontend developer.
 
-<img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khawoat6&hide_langs_below=1">
+### Interested field :dart:
+- Web Application
+- Data Science 
+- Data Visualization
 
-![Oat Phattaraphon's github stats](https://github-readme-stats.vercel.app/api?username=Khawoat6&count_private=true)
+### Stack tools🛠️
+- React.js
+- React Native
+- Node.js
+- Python
 
-</div>
+
+### Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khawoat6&show_icons=true&hide=issues&theme=graywhite&count_private=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khawoat6&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+### Contact Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/phattaraphon.oat) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/khawoat6/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/phattaraphon_c) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@phattaraphon.c) 
 
 
 
