@@ -33,10 +33,10 @@ My name is Oat Phattaraphon, I'm frontend developer.
 </a>
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker)](https://github.com/Khawoat6/covid19-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker)](https://github.com/Khawoat6/covid19-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker)](https://github.com/Khawoat6/covid19-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker)](https://github.com/Khawoat6/covid19-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
 
 
 ### Contact Me
