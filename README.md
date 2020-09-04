@@ -23,7 +23,7 @@ I'm Oat Phattaraphon, a 23 year old frontend developer and studing computer engi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khawoat6&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Repository
+### :electric_plug: Repository
 <!--
 <a href="https://github.com/Khawoat6/todolist-application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=todolist-application" />
@@ -46,7 +46,7 @@ I'm Oat Phattaraphon, a 23 year old frontend developer and studing computer engi
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=todolists-application&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/todolists-application)
 
 
-### Social Media
+### :link: Social Media
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/phattaraphon_c) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@phattaraphon.c)
