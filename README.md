@@ -14,7 +14,7 @@ My name is Oat Phattaraphon, I'm frontend developer.
 
 
 ### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khawoat6&show_icons=true&hide=issues&theme=buefy&count_private=false&icon_color=0366d6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khawoat6&show_icons=true&hide=issues&theme=buefy&count_private=false&icon_color=5c6bc0)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khawoat6&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 ### Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/phattaraphon.oat)
