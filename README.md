@@ -34,9 +34,9 @@ My name is Oat Phattaraphon, I'm frontend developer.
 -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker-v3&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker-v3)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=todolist-application&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/todolist-application)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=todolists-application&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/todolists-application)
 
 
 ### Contact Me
