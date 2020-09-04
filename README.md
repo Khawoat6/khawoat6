@@ -25,6 +25,9 @@ My name is Oat Phattaraphon, I'm frontend developer.
 <a href="https://github.com/Khawoat6/covid19-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker" />
 </a>
+<a href="https://github.com/Khawoat6/covid19-tracker-v3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker-v3" />
+</a>
 
 
 ### Contact Me
