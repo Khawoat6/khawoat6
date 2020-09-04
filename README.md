@@ -1,9 +1,5 @@
-### Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Khawoat6)
-
-
-## Hi there 👋, I'm Fame
+## Hi there 👋, I'm Oat
 My name is Oat Phattaraphon, I'm frontend developer.
 
 ### Interested field :dart:
