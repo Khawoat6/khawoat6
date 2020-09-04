@@ -19,10 +19,9 @@ I'm Oat Phattaraphon, a 23 year old frontend developer and studing computer engi
 
 ### :octocat: Github Stats
 
-<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khawoat6&show_icons=true&hide=issues&theme=buefy&count_private=false&icon_color=5c6bc0&include_all_commits=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khawoat6&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 ### Repository
 <!--
@@ -40,12 +39,12 @@ I'm Oat Phattaraphon, a 23 year old frontend developer and studing computer engi
 </a>
 -->
 
-<p align="center">
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=covid19-tracker-v3&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/covid19-tracker-v3)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=todolist-application&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/todolist-application)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=todolists-application&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/todolists-application)
-</p>
+
 
 ### Social Media
 
