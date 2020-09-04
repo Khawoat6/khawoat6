@@ -1,5 +1,8 @@
 ## :bookmark: Hi there
+<p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"></p>
 I'm Oat Phattaraphon, a 23 year old frontend developer and studing computer engineering at kasetsart university
+
+
 
 ### :coffee: Interested 
 - Data Visualization
