@@ -18,8 +18,11 @@ I'm Oat Phattaraphon, a 23 year old frontend developer and studing computer engi
 
 
 ### :octocat: Github Stats
+
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khawoat6&show_icons=true&hide=issues&theme=buefy&count_private=false&icon_color=5c6bc0&include_all_commits=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khawoat6&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ### Repository
 <!--
