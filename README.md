@@ -7,8 +7,6 @@
 
 <img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khawoat6&hide_langs_below=1">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khawoat64&show_icons=true">
-
 ![Oat Phattaraphon's github stats](https://github-readme-stats.vercel.app/api?username=Khawoat6&count_private=true)
 
 </div>
