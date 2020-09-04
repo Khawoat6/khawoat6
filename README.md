@@ -1,20 +1,20 @@
-## Hi there :bookmark: , I'm Oat
-My name is Oat Phattaraphon, I'm frontend developer.
+## :bookmark: Hi there
+I'm Oat Phattaraphon, a 23 year old frontend developer and studing computer engineering at kasetsart university
 
-### Interested :coffee:
+### :coffee: Interested 
 - Data Visualization
 - Data Journalism
 - Politicals
 - Book + Coffee
 
-### Stack tools 
+### :curly_loop: Stack tools 
 - React.js
 - React Native
 - Python
 - HTML5 & CSS3 
 
 
-### Github Stats
+### :octocat: Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khawoat6&show_icons=true&hide=issues&theme=buefy&count_private=false&icon_color=5c6bc0&include_all_commits=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khawoat6&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
