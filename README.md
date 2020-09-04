@@ -1,4 +1,3 @@
-
 ## Hi there 👋, I'm Oat
 My name is Oat Phattaraphon, I'm frontend developer.
 
@@ -22,6 +21,8 @@ My name is Oat Phattaraphon, I'm frontend developer.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/khawoat6/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/phattaraphon_c) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@phattaraphon.c) 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/6A4tKQ6" data-context="false" ><a href="//imgur.com/a/6A4tKQ6"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
