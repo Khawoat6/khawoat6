@@ -1,16 +1,16 @@
-## Hi there 👋, I'm Oat
+## Hi there , I'm Oat
 My name is Oat Phattaraphon, I'm frontend developer.
 
 ### Interested field :dart:
-- Web Application
-- Data Science 
 - Data Visualization
+- Data Journalism
+- 
 
 ### Stack tools🛠️
 - React.js
 - React Native
-- Node.js
 - Python
+- HTML5 & CSS3 
 
 
 ### Github Stats
@@ -39,11 +39,11 @@ My name is Oat Phattaraphon, I'm frontend developer.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=khawoat6&repo=todolists-application&theme=buefy&icon_color=5c6bc0)](https://github.com/Khawoat6/todolists-application)
 
 
-### Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/phattaraphon.oat)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/khawoat6/)
+### Social Media
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/phattaraphon_c)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='30'>](https://medium.com/@phattaraphon.c)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/phattaraphon/)
 
 
 <!--
