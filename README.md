@@ -4,7 +4,7 @@
 <p align="center"> Hi, my nickname is Oat, I'm extremely interested in Deep Learning, Data Visualization and Politicals, <br/> I believe that Data Journalism will help humans be more intelligent and live better.
 </p>
 
-<div style="display: flex;justify-content;">
+<div style="display: flex;justify-content: center;">
 
 ### :coffee: Interested 
 - Data Visualization
@@ -19,8 +19,7 @@
 - React Native
 - Python
 - HTML5 & CSS3 
-</div>
-</div>
+
 
 ### :octocat: Github Stats
 
