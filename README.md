@@ -1,7 +1,7 @@
 ## :bookmark: Hi there
 <p align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"></p>
 
-<p align="center"> Hi, my nickname is Oat, I'm extremely interested in Deep Learning, Data Visualization and Politicals, <br/> I believe that Data Journalism will help humans be more comfortable and happier.
+<p align="center"> Hi, my nickname is Oat, I'm extremely interested in Deep Learning, Data Visualization and Politicals, <br/> I believe that Data Journalism will help humans be more intelligent and live better.
 </p>
 
 ### :coffee: Interested 
