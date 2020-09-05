@@ -11,8 +11,8 @@
 - Data Journalism
 - Politicals
 - Book + Coffee
-    </div>
-    <div align="left">
+   </div>
+    <div align="right">
 
 ### :curly_loop: Stack tools 
 - React.js
