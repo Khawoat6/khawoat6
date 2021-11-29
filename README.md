@@ -4,7 +4,6 @@
 <p align="center"> Hi, my nickname is Oat, I'm extremely interested in Deep Learning, Data Visualization and Politicals, <br/> I believe that Data Journalism will help humans be more intelligent and live better.
 </p>
 
-<a href="https://app.daily.dev/phattaraphon_c"><img src="https://api.daily.dev/devcards/6addd62639c8404c88d820eae289cee0.png?r=7h4" width="400" alt="Oat Phattaraphon's Dev Card"/></a>
 
 ### :coffee: Interested 
 - Data Visualization
